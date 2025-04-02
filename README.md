@@ -3,11 +3,11 @@
 <h2>Cybersecurity Projects</h2>
 
 - <b>Azure/Cloud Projects </b>
-  - [Azure SOC/Honeynet](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Azure SOC/Honeynet](https://github.com/hwilson4898/Azure-SOC)
 
 <h2> 🤳 Connect with me:</h2>
 
-[linkedin]: https://www.linkedin.com/in/hwilson48/
+- [Linkedin](https://www.linkedin.com/in/hwilson48/)
 
 
 <!--
