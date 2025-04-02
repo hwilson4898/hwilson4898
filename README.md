@@ -1,6 +1,6 @@
 <h1>Hi, I'm Hannah! I'm a Technical Support Engineer with an interest in cybersecurity and cloud technologies. </h1>
 
-<h2>Cybersecurity Projects</h2>
+<h2>	:woman_technologist: Cybersecurity Projects</h2>
 
 - <b>Azure/Cloud Projects </b>
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/hwilson4898/Azure-SOC)
